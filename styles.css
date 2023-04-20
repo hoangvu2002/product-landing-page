@@ -115,3 +115,9 @@ button {
 .buttons {
     display: flex;
 }
+
+.first h2 {
+    font-size: 36px;
+    font-weight: 800px;
+    color: #1F2937;
+}
