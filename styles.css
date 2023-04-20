@@ -40,5 +40,12 @@ ul  a {
 .caplink {
     display: flex;
     justify-content: space-between;
+    align-items: center;
+}
+
+.hero {
+    display: flex;
+    justify-content: space-between;
+    gap: 120px;
 }
 
