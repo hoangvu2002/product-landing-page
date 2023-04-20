@@ -166,3 +166,12 @@ button {
     text-align: right;
     padding-left: 500px;
 }
+
+.third {
+    display: flex;
+}
+
+.action {
+    display: flex;
+    background-color: #3882F6;
+}
