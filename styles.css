@@ -45,7 +45,7 @@ ul  a {
 
 .hero {
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
     gap: 20px;
 }
 
@@ -85,5 +85,6 @@ ul  a {
     max-width: 1900px;
     color:#E5E7EB;
     background-color: gray;
+    max-width: 800px;
 }
 
