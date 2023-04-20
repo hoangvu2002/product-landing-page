@@ -157,3 +157,12 @@ button {
     font-weight: lighter;
     max-width: 830px;
 }
+
+.author {
+    color: black;
+    font-size: 30px;
+    font-weight: 900;
+    max-width: 830px;
+    text-align: right;
+    padding-left: 500px;
+}
