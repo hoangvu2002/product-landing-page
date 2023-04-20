@@ -139,3 +139,13 @@ button {
     padding: 5px;
     flex-basis: 150px;
 }
+
+.second {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+    justify-content: center;
+    align-items: center;
+    background-color: #E5E7EB;
+    padding: 60px 0;
+}
