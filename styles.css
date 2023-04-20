@@ -136,4 +136,5 @@ button {
     align-items: center;
     text-align: center;
     padding: 5px;
+    flex-basis: 150px;
 }
