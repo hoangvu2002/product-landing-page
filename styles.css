@@ -114,6 +114,8 @@ button {
 
 .buttons {
     display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .first h2 {
