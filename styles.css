@@ -63,6 +63,7 @@ ul  a {
     font-weight: 900;
     color: #F9FAF8;
     margin-bottom: 5px;
+    width: 400px;
 }
 
 .left-hero > p {
@@ -72,7 +73,5 @@ ul  a {
     font-size: 18px;
 }
 
-.left-hero {
-    width: 800px;
-}
+
 
