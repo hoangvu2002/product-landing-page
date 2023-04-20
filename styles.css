@@ -16,13 +16,11 @@ header, footer {
 }
 header {
     flex-direction: column;
-    padding: 10px;
+    padding: 10px 80px;
 }
 .logo {
     font-size: 24px;
     color: #F9FAF8;
     font-weight: bold;
 }
-.caplink {
-    width: 80%;
-}
+
