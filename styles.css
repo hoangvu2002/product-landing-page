@@ -46,7 +46,7 @@ ul  a {
 .hero {
     display: flex;
     justify-content: space-between;
-    gap: 120px;
+    gap: 20px;
 }
 
 .left-hero {
@@ -55,6 +55,7 @@ ul  a {
     justify-content: flex-start;
     flex-basis: auto;
     flex-shrink: 1;
+    border: 1px solid black;
 }
 
 .left-hero > h1 {
@@ -74,5 +75,15 @@ ul  a {
     font-size: 18px;
 }
 
-
+.img-placeholder {
+    padding : 10px;
+    display: flex;
+    justify-content: center;
+    align-self: stretch;
+    text-align: center;
+    flex-shrink: 1;
+    max-width: 1900px;
+    color:#E5E7EB;
+    background-color: gray;
+}
 
