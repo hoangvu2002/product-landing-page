@@ -104,3 +104,11 @@ button {
     border-radius: 10px;
     box-shadow: none;
 }
+.first {
+    display: flex;
+    flex-direction: column;
+}
+
+.buttons {
+    display: flex;
+}
