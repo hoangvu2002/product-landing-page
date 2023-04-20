@@ -26,6 +26,7 @@ header {
 
 ul {
     list-style-type: none;
+    display: flex;
 }
 
 ul  a {
@@ -33,3 +34,8 @@ ul  a {
     font-size: 18px;
     color: #E5E7EB;
 }
+
+.caplink {
+    display: flex;
+}
+
