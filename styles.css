@@ -61,5 +61,14 @@ ul  a {
     font-size: 48px;
     font-weight: 900;
     color: #F9FAF8;
+    margin-bottom: 5px;
 }
+
+.left-hero > p {
+    margin-top: 0;
+    width: 400px;
+    color: #E5E7EB;
+    font-size: 18px;
+}
+
 
